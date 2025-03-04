@@ -10,7 +10,7 @@ git clone https://github.com/dracula/PowerShell-ISE.git
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/PowerShell-ISE/archive/master.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/Snappy-Driver-Installer/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
@@ -31,7 +31,7 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/PowerShel
 1. Open the **Snappy Driver Installer** folder.
 2. Launch the application by running **SDI_{version}.exe**.
 3. Select the "Dracula" theme and here's the result :
-![Screenshot](./images/Screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 The installation is now complete, and the theme is correctly integrated.
 
