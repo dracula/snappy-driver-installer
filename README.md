@@ -1,20 +1,20 @@
-# Dracula for [Snappy Driver Installer](https://sdi-tool.org/)
+# Dracula for [Snappy Driver Installer](https://sdi-tool.org)
 
-> A dark theme for [Snappy Driver Installer](https://sdi-tool.org/).
+> A dark theme for [Snappy Driver Installer](https://sdi-tool.org).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/Snappy-Driver-Installer](https://draculatheme.com/PowerShell-ISE) or [INSTALL](./INSTALL.md).
+All instructions can be found at [draculatheme.com/snappy-driver-installer](https://draculatheme.com/snappy-driver-installer).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/Snappy-Driver-Installer/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/snappy-driver-installer/graphs/contributors).
 
 | [![Star Kev](https://github.com/StarKev.png?size=100)](https://github.com/StarKev) |
-| ---------------------------------------------------------------------------------------- |
-| [Star Kev](https://github.com/StarKev)                                               |
+| ---------------------------------------------------------------------------------- |
+| [Star Kev](https://github.com/StarKev)                                             |
 
 ## Community
 
